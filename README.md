@@ -53,7 +53,7 @@ I'm a front-end developer
 
 ![](https://github-readme-stats.vercel.app/api?username=ivanbensa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ivanbensa&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=ivanbensa&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanbensa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
