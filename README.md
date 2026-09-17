@@ -58,10 +58,6 @@ Currently expanding my skills toward **Full Stack Development**, with a focus on
   <img alt="Ivan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ivanbensa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Ivan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ivanbensa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-</a>
-
 ---
 
 ## 🌐 Find Me
